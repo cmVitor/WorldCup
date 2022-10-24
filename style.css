@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(140,22,56);
+    background-image:url("") ;
+}
+
+.titulo {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    font-family: Arial;
+
+}
+
+.subtitulo {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial;
+
+}
+
+h1 {
+    color: rgba(255, 255, 255, 0.845);
+    font-family: Arial;
+
+}
+
+h3 {
+    color: white;
+    font-size: 35px;
+    margin-left: 30px;
+}
+
+
+div {
+    background-color: rgb(98, 16, 39);
+    margin-right: 50px;
+    border-radius: 35px;
+}
+
+.musica {
+    color: cyan
+}
+
+img {
+    width: 90px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    column-gap: 8px;
+}
+
+p {
+    font-family: Arial;
+    font-size: 25px;
+    color: white
+}
+.X {
+    font-family: Arial;
+    font-size: 20px;
+}
+.globoesporte {
+    width: 90px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    border-radius: 10px;
+}
